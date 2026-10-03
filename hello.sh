@@ -3,3 +3,4 @@ set -euo pipefail
 
 echo "server starting"
 date
+echo done
