@@ -1,3 +1,8 @@
-v1
-hehev2
-make2
+#!/bin/bash
+set -euo pipefail
+
+echo "server starting"
+date
+echo done
+echo "hi philip"
+echo "bye"
